@@ -1,0 +1,5261 @@
+{
+    "categoryOptionGroupSets": [],
+    "categoryOptionGroups": [],
+    "dashboards": [
+        {
+            "allowedFilters": [],
+            "code": "MAL_SMC",
+            "dashboardItems": [
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 16,
+                    "id": "dxkvi6gXDuU",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "KkaiV4k8w1Z"
+                    },
+                    "width": 31,
+                    "x": 0,
+                    "y": 12
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 12,
+                    "id": "iZrIYIU45Zx",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "nhtheNkJF59"
+                    },
+                    "width": 9,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 12,
+                    "id": "TV2QLDfp0Dg",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "RlwTmj8O4y0"
+                    },
+                    "width": 10,
+                    "x": 9,
+                    "y": 0
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 12,
+                    "id": "qorocb0cwca",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "R9D2SkXWq6r"
+                    },
+                    "width": 10,
+                    "x": 19,
+                    "y": 0
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 12,
+                    "id": "Pmr4ozLAWaZ",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "n48NG4U4lpR"
+                    },
+                    "width": 10,
+                    "x": 29,
+                    "y": 0
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 12,
+                    "id": "mlONsyfFYpc",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "Re7rQsLNYa5"
+                    },
+                    "width": 10,
+                    "x": 39,
+                    "y": 0
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 12,
+                    "id": "k9okfVKJZTy",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "eGAAf2w3zs6"
+                    },
+                    "width": 10,
+                    "x": 49,
+                    "y": 0
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 19,
+                    "id": "X4FvWZPKmGK",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "mvRQprAAcjn"
+                    },
+                    "width": 31,
+                    "x": 0,
+                    "y": 28
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 29,
+                    "id": "YZPkgA0UYeB",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "oPgxReDvtX5"
+                    },
+                    "width": 31,
+                    "x": 0,
+                    "y": 47
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 26,
+                    "id": "faQgiwD3gLU",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "lpvKxAPBN60"
+                    },
+                    "width": 18,
+                    "x": 0,
+                    "y": 76
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 26,
+                    "id": "CKwsEKAL7aR",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "VISUALIZATION",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "visualization": {
+                        "id": "OOtoQZR7Vmc"
+                    },
+                    "width": 18,
+                    "x": 18,
+                    "y": 76
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 35,
+                    "id": "bURxgPQE5OH",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "map": {
+                        "id": "xtAWtQ9lOnR"
+                    },
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "MAP",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "width": 26,
+                    "x": 31,
+                    "y": 12
+                },
+                {
+                    "attributeValues": [],
+                    "contentCount": 1,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "height": 29,
+                    "id": "TdkAHEJ6QIP",
+                    "interpretationCount": 0,
+                    "interpretationLikeCount": 0,
+                    "map": {
+                        "id": "xJ2O8GCuE2K"
+                    },
+                    "reports": [],
+                    "resources": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "type": "MAP",
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "users": [],
+                    "width": 26,
+                    "x": 31,
+                    "y": 47
+                }
+            ],
+            "id": "IhzcGXtnqv3",
+            "itemConfig": {
+                "insertPosition": "START"
+            },
+            "layout": {
+                "columns": []
+            },
+            "name": "MAL - SMC",
+            "restrictFilters": false,
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "--------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "translations": []
+        }
+    ],
+    "eventVisualizations": [],
+    "indicatorGroupSets": [],
+    "indicatorGroups": [
+        {
+            "attributeValues": [],
+            "code": "MAL_SMC",
+            "id": "SHnPqN9krGf",
+            "indicators": [
+                {
+                    "id": "X6h0Jj2tyV7"
+                },
+                {
+                    "id": "ZDge3QYblCV"
+                },
+                {
+                    "id": "PSP9kPy5WbL"
+                },
+                {
+                    "id": "hmOiu1PM18o"
+                },
+                {
+                    "id": "lJaX2njt8Gv"
+                },
+                {
+                    "id": "gbfCV30Jhpr"
+                },
+                {
+                    "id": "dxIZcQCvZCV"
+                },
+                {
+                    "id": "hsgt2Rv5UiN"
+                },
+                {
+                    "id": "T4xhL6B0jjO"
+                },
+                {
+                    "id": "dq9x3ePL4xj"
+                },
+                {
+                    "id": "TSlfFnbYwB9"
+                },
+                {
+                    "id": "Lxa8VMjaeBl"
+                },
+                {
+                    "id": "DDDArM8Hmuj"
+                },
+                {
+                    "id": "kvfbCr7JWm8"
+                },
+                {
+                    "id": "oYgLk8L718Y"
+                },
+                {
+                    "id": "TWN1ZF2UA7F"
+                },
+                {
+                    "id": "GuM3dKDOFLV"
+                },
+                {
+                    "id": "kRgrjCxjsKg"
+                },
+                {
+                    "id": "KT8TOc8gVAD"
+                },
+                {
+                    "id": "UrihLxEBDNf"
+                },
+                {
+                    "id": "ahGxFlqgCPq"
+                },
+                {
+                    "id": "fdv9rsh7Ybs"
+                },
+                {
+                    "id": "Tgsn6faDc3e"
+                },
+                {
+                    "id": "Cx3ngS2JMlq"
+                },
+                {
+                    "id": "XBGinZSctLu"
+                },
+                {
+                    "id": "Ii3IfQTena8"
+                },
+                {
+                    "id": "khsaCIw31tb"
+                },
+                {
+                    "id": "O4uITx6oE5h"
+                },
+                {
+                    "id": "X70TfODOH12"
+                },
+                {
+                    "id": "jdRAAEfOLo9"
+                },
+                {
+                    "id": "NZtEII7Zxwg"
+                },
+                {
+                    "id": "J27BvgwvmkX"
+                },
+                {
+                    "id": "yLPvy1mhFOV"
+                },
+                {
+                    "id": "Zir0nU8UT1v"
+                },
+                {
+                    "id": "dVfklCehJ9Y"
+                },
+                {
+                    "id": "qr2NXl5B5Tt"
+                },
+                {
+                    "id": "py1FMYdRMFj"
+                },
+                {
+                    "id": "WEtI7S4XKED"
+                },
+                {
+                    "id": "IlSuhghV3bL"
+                },
+                {
+                    "id": "ZAfvEIqHA44"
+                },
+                {
+                    "id": "cZsg8z6qS79"
+                },
+                {
+                    "id": "nU0t7mv0nyD"
+                },
+                {
+                    "id": "hfBN8uekL0o"
+                },
+                {
+                    "id": "cgc160MvfEg"
+                },
+                {
+                    "id": "DMXNQScAb4E"
+                },
+                {
+                    "id": "Njfp6pRHHkx"
+                },
+                {
+                    "id": "l8zBahfUDCF"
+                },
+                {
+                    "id": "V7pOkRMhtOi"
+                },
+                {
+                    "id": "GevHKqjXSFX"
+                },
+                {
+                    "id": "ak3LR1HIG1r"
+                },
+                {
+                    "id": "UchzmI7Dzin"
+                },
+                {
+                    "id": "tg5VC8Kjan0"
+                },
+                {
+                    "id": "s5k2PfdOQQ4"
+                },
+                {
+                    "id": "BzIX1catlpN"
+                },
+                {
+                    "id": "ddse1cN80Ec"
+                },
+                {
+                    "id": "Klpag3nv78Y"
+                },
+                {
+                    "id": "TGbs1i8qZoP"
+                }
+            ],
+            "name": "MAL - SMC",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "translations": []
+        }
+    ],
+    "indicatorTypes": [
+        {
+            "code": "GEN_LIB_NUMBER_ONLY",
+            "factor": 1,
+            "id": "kHy61PbChXr",
+            "name": "Numerator only (number)",
+            "number": true,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Numérateur seulement (nombre)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Apenas numerador (número)"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "البسط فقط (رقم)"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Solo numerador (número)"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Solo numerador (número)"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "البسط فقط (رقم)"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Фақат рақамловчи (рақам)"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Тоько числитель (число)"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "البسط فقط (رقم)"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Фақат рақамловчи (рақам)"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Apenas numerador (número)"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Kun teller (tall)"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "البسط فقط (رقم)"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Pouze čitatel (číslo)"
+                }
+            ]
+        },
+        {
+            "code": "GEN_LIB_PERCENT",
+            "factor": 100,
+            "id": "hmSnCXmLYwt",
+            "name": "Percentage",
+            "number": false,
+            "translations": [
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Фоиз"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "نسبة"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Porcentaje"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "نسبة"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Pourcentage"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "نسبة"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "Persentase"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Percentagem"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Procento"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Por 100"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Процент"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Percentagem"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "نسبة"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Prosentdel"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Foiz"
+                }
+            ]
+        }
+    ],
+    "indicators": [
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_CHILD_REACHED",
+            "denominator": -1,
+            "denominatorDescription": "Number of cycles",
+            "id": "Ii3IfQTena8",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - SMC - Number of children reached in a given year",
+            "numerator": -1,
+            "numeratorDescription": "Sum of number treated",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "# of children reached in a given year",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_SIDE_EFFECT",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "GuM3dKDOFLV",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Children excluded - side effects ",
+            "numerator": -1,
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Children excluded - side effects",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_SIDE_EFFECT_PROP",
+            "denominator": -1,
+            "denominatorDescription": "Children seen",
+            "id": "ddse1cN80Ec",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Children excluded - side effects (%)",
+            "numerator": -1,
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Children excluded - side effects (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_REDOSED",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "jdRAAEfOLo9",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Children redosed",
+            "numerator": -1,
+            "numeratorDescription": "Children redosed",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Children redosed",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_REDOSED_PROP",
+            "denominator": -1,
+            "denominatorDescription": "Children seen",
+            "id": "py1FMYdRMFj",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Children redosed (%)",
+            "numerator": -1,
+            "numeratorDescription": "Children redosed",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Children redosed (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_REFERRED",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "qr2NXl5B5Tt",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Children referred",
+            "numerator": -1,
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Children referred",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_REFERRED_PROP",
+            "denominator": -1,
+            "denominatorDescription": "Children seen",
+            "id": "J27BvgwvmkX",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Children referred (%)",
+            "numerator": -1,
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Children referred (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_CHILDREN_SEEN",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "ZDge3QYblCV",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Children seen",
+            "numerator": -1,
+            "numeratorDescription": "Children seen",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Children seen",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_CHILDREN_SEEN_PROP",
+            "denominator": -1,
+            "denominatorDescription": "Targeted children",
+            "id": "XBGinZSctLu",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Children seen (%)",
+            "numerator": -1,
+            "numeratorDescription": "Children seen",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Children seen %",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_RECEIVED",
+            "denominator": -1,
+            "denominatorDescription": "Children seen",
+            "id": "Cx3ngS2JMlq",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Children that received SMC (%)",
+            "numerator": -1,
+            "numeratorDescription": "Children that received SMC",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Children that received SMC (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_THREE_DOSES",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "dxIZcQCvZCV",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Children with full three daily doses of SPAQ ",
+            "numerator": -1,
+            "numeratorDescription": "Children with full three daily doses of SPAQ (%)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Children with full three daily doses of SPAQ",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_THREE_DOSES_PROP",
+            "denominator": -1,
+            "denominatorDescription": "Targeted children",
+            "id": "Tgsn6faDc3e",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Children with full three daily doses of SPAQ (%)",
+            "numerator": -1,
+            "numeratorDescription": "Children with full three daily doses of SPAQ (%)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Children with full three daily doses of SPAQ (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_SIDE_EFFECT_CYCLE1",
+            "denominator": -1,
+            "denominatorDescription": " Cycle 1: children seen",
+            "id": "fdv9rsh7Ybs",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 1: Children excluded - side effects (%)",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 1: Children excluded - side effects (%)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 1: Children excluded - side effects (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_REDOSED_CYCLE1",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "TSlfFnbYwB9",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 1: Children redosed",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 1: Children redosed",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 1: Children redosed",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_REFERRED_CYCLE1",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "GevHKqjXSFX",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 1: Children referred",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 1: Children referred",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 1: Children referred",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_RECEIVED_CYCLE1",
+            "denominator": -1,
+            "denominatorDescription": " Cycle 1: children seen",
+            "id": "ak3LR1HIG1r",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 1: Children that received SMC (%)",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 1: Children that received SMC (%)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 1: Children that received SMC (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_THREE_DOSES_CYCLE1",
+            "denominator": -1,
+            "denominatorDescription": "Cycle 1: Targeted children",
+            "id": "gbfCV30Jhpr",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 1: Children with full three daily doses of SPAQ (%)",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 1: Children three daily doses of SPAQ (%)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 1: Children three daily doses of SPAQ (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_REFUSALS_CYCLE1",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "kvfbCr7JWm8",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 1: Refusals",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 1: Refusals",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 1: Refusals",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_TARGET_CHILDREN_CYCLE1",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "NZtEII7Zxwg",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 1: Targeted children",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 1: Targeted children",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 1: Targeted children",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_CHILDREN_SEEN_CYCLE1",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "BzIX1catlpN",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 1: children seen",
+            "numerator": -1,
+            "numeratorDescription": " Cycle 1: children seen",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": " Cycle 1: children seen",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_REFUSALS_CYCLE3",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "cgc160MvfEg",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 2 Refusals",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 2 Refusals",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 2 Refusals",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_SIDE_EFFECT_CYCLE2",
+            "denominator": -1,
+            "denominatorDescription": " Cycle 2: children seen",
+            "id": "DMXNQScAb4E",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 2: Children excluded - side effects (%)",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 2: Children excluded - side effects (%)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 2: Children excluded - side effects (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_REDOSED_CYCLE2",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "Zir0nU8UT1v",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 2: Children redosed",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 2: Children redosed",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 2: Children redosed",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_REFERRED_CYCLE2",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "nU0t7mv0nyD",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 2: Children referred",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 2: Children referred",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 2: Children referred",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_RECEIVED_CYCLE2",
+            "denominator": -1,
+            "denominatorDescription": " Cycle 2: children seen",
+            "id": "X70TfODOH12",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 2: Children that received SMC (%)",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 2: Children that received SMC (%)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 2: Children that received SMC (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_THREE_DOSES_CYCLE2",
+            "denominator": -1,
+            "denominatorDescription": "Cycle 2: Targeted children",
+            "id": "Klpag3nv78Y",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 2: Children with full three daily doses of SPAQ (%)",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 2: Children three daily doses of SPAQ (%)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 2: Children three daily doses of SPAQ (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_REFUSALS_CYCLE2",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "V7pOkRMhtOi",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 2: Refusals",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 2: Refusals",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 2: Refusals",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_TARGET_CHILDREN_CYCLE2",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "KT8TOc8gVAD",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 2: Targeted children",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 2: Targeted children",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 2: Targeted children",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_CHILDREN_SEEN_CYCLE2",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "ZAfvEIqHA44",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 2: children seen",
+            "numerator": -1,
+            "numeratorDescription": " Cycle 2: children seen",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": " Cycle 2: children seen",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_SIDE_EFFECT_CYCLE3",
+            "denominator": -1,
+            "denominatorDescription": " Cycle 3: children seen",
+            "id": "Lxa8VMjaeBl",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 3: Children excluded - side effects (%)",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 3: Children excluded - side effects (%)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 3: Children excluded - side effects (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_REDOSED_CYCLE3",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "IlSuhghV3bL",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 3: Children redosed",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 3: Children redosed",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 3: Children redosed",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_REFERRED_CYCLE3",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "hfBN8uekL0o",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 3: Children referred",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 3: Children referred",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 3: Children referred",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_RECEIVED_CYCLE3",
+            "denominator": -1,
+            "denominatorDescription": " Cycle 3: children seen",
+            "id": "hsgt2Rv5UiN",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 3: Children that received SMC (%)",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 3: Children that received SMC (%)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 3: Children that received SMC (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_THREE_DOSES_CYCLE3",
+            "denominator": -1,
+            "denominatorDescription": "Cycle 3: Targeted children",
+            "id": "O4uITx6oE5h",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 3: Children with full three daily doses of SPAQ (%)",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 3: Children three daily doses of SPAQ (%)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 3: Children three daily doses of SPAQ (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_REFUSALS_CYCLE4",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "dq9x3ePL4xj",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 3: Refusals",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 3: Refusals",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 3: Refusals",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_TARGET_CHILDREN_CYCLE3",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "TGbs1i8qZoP",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 3: Targeted children",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 3: Targeted children",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 3: Targeted children",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_CHILDREN_SEEN_CYCLE3",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "l8zBahfUDCF",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 3: children seen",
+            "numerator": -1,
+            "numeratorDescription": " Cycle 3: children seen",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": " Cycle 3: children seen",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_SIDE_EFFECT_CYCLE4",
+            "denominator": -1,
+            "denominatorDescription": " Cycle 4: children seen",
+            "id": "X6h0Jj2tyV7",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 4: Children excluded - side effects (%)",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 4: Children excluded - side effects (%)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 4: Children excluded - side effects (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_REDOSED_CYCLE4",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "DDDArM8Hmuj",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 4: Children redosed",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 4: Children redosed",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 4: Children redosed",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_REFERRED_CYCLE4",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "dVfklCehJ9Y",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 4: Children referred",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 4: Children referred",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 4: Children referred",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_RECEIVED_CYCLE4",
+            "denominator": -1,
+            "denominatorDescription": " Cycle 4: children seen",
+            "id": "khsaCIw31tb",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 4: Children that received SMC (%)",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 4: Children that received SMC (%)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 4: Children that received SMC (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_THREE_DOSES_CYCLE4",
+            "denominator": -1,
+            "denominatorDescription": "Cycle 4: Targeted children",
+            "id": "oYgLk8L718Y",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 4: Children with full three daily doses of SPAQ (%)",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 4: Children three daily doses of SPAQ (%)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 4: Children three daily doses of SPAQ (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_REFUSALS_CYCLE5",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "TWN1ZF2UA7F",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 4: Refusals",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 4: Refusals",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 4: Refusals",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_TARGET_CHILDREN_CYCLE4",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "s5k2PfdOQQ4",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 4: Targeted children",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 4: Targeted children",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 4: Targeted children",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_CHILDREN_SEEN_CYCLE4",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "tg5VC8Kjan0",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 4: children seen",
+            "numerator": -1,
+            "numeratorDescription": " Cycle 4: children seen",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": " Cycle 4: children seen",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_SIDE_EFFECT_CYCLE5",
+            "denominator": -1,
+            "denominatorDescription": " Cycle 5: children seen",
+            "id": "PSP9kPy5WbL",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 5: Children excluded - side effects (%)",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 5: Children excluded - side effects (%)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 5: Children excluded - side effects (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_REDOSED_CYCLE5",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "cZsg8z6qS79",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 5: Children redosed",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 5: Children redosed",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 5: Children redosed",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_REFERRED_CYCLE5",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "kRgrjCxjsKg",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 5: Children referred",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 5: Children referred",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 5: Children referred",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_RECEIVED_CYCLE5",
+            "denominator": -1,
+            "denominatorDescription": " Cycle 5: children seen",
+            "id": "hmOiu1PM18o",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 5: Children that received SMC (%)",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 5: Children that received SMC (%)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 5: Children that received SMC (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_THREE_DOSES_CYCLE5",
+            "denominator": -1,
+            "denominatorDescription": "Cycle 5: Targeted children",
+            "id": "WEtI7S4XKED",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 5: Children with full three daily doses of SPAQ (%)",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 5: Children three daily doses of SPAQ (%)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 5: Children three daily doses of SPAQ (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_TARGET_CHILDREN_CYCLE5",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "T4xhL6B0jjO",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 5: Targeted children",
+            "numerator": -1,
+            "numeratorDescription": "Cycle 5: Targeted children",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Cycle 5: Targeted children",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_CHILDREN_SEEN_CYCLE5",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "UchzmI7Dzin",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Cycle 5: children seen",
+            "numerator": -1,
+            "numeratorDescription": " Cycle 5: children seen",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": " Cycle 5: children seen",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_REFUSALS",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "Njfp6pRHHkx",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Refusals",
+            "numerator": -1,
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Refusals",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_REFUSALS_PROP",
+            "denominator": -1,
+            "denominatorDescription": "Children seen",
+            "id": "UrihLxEBDNf",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Refusals (%)",
+            "numerator": -1,
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Refusals (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_ALL_CYCLES_PROP",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "yLPvy1mhFOV",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Target children that have received all planned SMC cycles ",
+            "numerator": -1,
+            "numeratorDescription": "Target children received all planned cycles (%)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Target children received all planned cycles (%)",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_ALL_CYCLES",
+            "denominator": -1,
+            "denominatorDescription": "Targeted children",
+            "id": "lJaX2njt8Gv",
+            "indicatorType": {
+                "id": "hmSnCXmLYwt"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Target children that have received all planned SMC cycles (%)",
+            "numerator": -1,
+            "numeratorDescription": "Target children received all planned cycles (%)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Target children received all planned SMC cycles",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_SMC_TARGET_CHILDREN",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "id": "ahGxFlqgCPq",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL-SMC - Targeted children",
+            "numerator": -1,
+            "numeratorDescription": "Targeted children",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Targeted children",
+            "translations": []
+        },
+        {
+            "annualized": false,
+            "attributeValues": [],
+            "code": "MAL_POP_AT_RISK",
+            "denominator": -1,
+            "denominatorDescription": "1",
+            "description": "Population living in areas where malaria transmission is possible, i.e. population living in either endemic area, or in elimination settings in active foci, residual non-active. May also include population in cleared foci where interventions continue because is still receptive",
+            "id": "TnqCgOccFIC",
+            "indicatorType": {
+                "id": "kHy61PbChXr"
+            },
+            "legendSets": [],
+            "name": "[CONFIG] MAL - Population at risk for malaria",
+            "numerator": -1,
+            "numeratorDescription": "Population at risk",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Population at risk",
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "Obyvatelstvo v ohrožení"
+                },
+                {
+                    "locale": "es",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Population vivant dans des zones où la transmission du paludisme est possible, c'est-à-dire la population vivant dans l'une ou l'autre des zones d'endémie, ou dans des lieux d'élimination dans des foyers actifs, résiduels non actifs. Peut également inclure la population vivant dans des foyers éliminés où les interventions se poursuivent parce qu'elle est encore réceptive"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "PALU - Population à risque"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Population à risque"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Population à risque"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NUMERATOR_DESCRIPTION",
+                    "value": "Obyvatelstvo v ohrožení"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DENOMINATOR_DESCRIPTION",
+                    "value": "1"
+                }
+            ]
+        }
+    ],
+    "legendSets": [],
+    "maps": [
+        {
+            "attributeValues": [],
+            "basemap": "osmLight",
+            "id": "xtAWtQ9lOnR",
+            "mapViews": [
+                {
+                    "attributeDimensions": [],
+                    "attributeValues": [],
+                    "categoryDimensions": [],
+                    "categoryOptionGroupSetDimensions": [],
+                    "classes": 5,
+                    "colorScale": "#ffffcc,#c2e699,#78c679,#31a354,#006837",
+                    "columnDimensions": [
+                        "dx"
+                    ],
+                    "columns": [],
+                    "completedOnly": false,
+                    "dataDimensionItems": [
+                        {
+                            "dataDimensionItemType": "INDICATOR",
+                            "indicator": {
+                                "id": "Cx3ngS2JMlq"
+                            }
+                        }
+                    ],
+                    "dataElementDimensions": [],
+                    "dataElementGroupSetDimensions": [],
+                    "digitGroupSeparator": "SPACE",
+                    "eventClustering": false,
+                    "eventPointRadius": 0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "filterDimensions": [
+                        "pe"
+                    ],
+                    "filters": [],
+                    "hideSubtitle": false,
+                    "hideTitle": false,
+                    "id": "pOkgysAG84A",
+                    "interpretations": [],
+                    "itemOrganisationUnitGroups": [],
+                    "layer": "thematic",
+                    "method": 2,
+                    "name": "MAL-SMC - Children that received SMC (%)",
+                    "opacity": 0.9,
+                    "organisationUnitGroupSetDimensions": [],
+                    "organisationUnitLevels": [],
+                    "organisationUnits": [],
+                    "parentGraphMap": {},
+                    "parentLevel": 0,
+                    "periods": [],
+                    "programIndicatorDimensions": [],
+                    "relativePeriods": {
+                        "biMonthsThisYear": false,
+                        "last10FinancialYears": false,
+                        "last10Years": false,
+                        "last12Months": true,
+                        "last12Weeks": false,
+                        "last14Days": false,
+                        "last180Days": false,
+                        "last2SixMonths": false,
+                        "last30Days": false,
+                        "last3Days": false,
+                        "last3Months": false,
+                        "last4BiWeeks": false,
+                        "last4Quarters": false,
+                        "last4Weeks": false,
+                        "last52Weeks": false,
+                        "last5FinancialYears": false,
+                        "last5Years": false,
+                        "last60Days": false,
+                        "last6BiMonths": false,
+                        "last6Months": false,
+                        "last7Days": false,
+                        "last90Days": false,
+                        "lastBiWeek": false,
+                        "lastBimonth": false,
+                        "lastFinancialYear": false,
+                        "lastMonth": false,
+                        "lastQuarter": false,
+                        "lastSixMonth": false,
+                        "lastWeek": false,
+                        "lastYear": false,
+                        "monthsLastYear": false,
+                        "monthsThisYear": false,
+                        "quartersLastYear": false,
+                        "quartersThisYear": false,
+                        "thisBiWeek": false,
+                        "thisBimonth": false,
+                        "thisDay": false,
+                        "thisFinancialYear": false,
+                        "thisMonth": false,
+                        "thisQuarter": false,
+                        "thisSixMonth": false,
+                        "thisWeek": false,
+                        "thisYear": false,
+                        "weeksThisYear": false,
+                        "yesterday": false
+                    },
+                    "renderingStrategy": "SINGLE",
+                    "rows": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipRounding": false,
+                    "sortOrder": 0,
+                    "subscribed": false,
+                    "subscribers": [],
+                    "topLimit": 0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "userOrganisationUnit": false,
+                    "userOrganisationUnitChildren": false,
+                    "userOrganisationUnitGrandChildren": true
+                }
+            ],
+            "name": "MAL_SMC_008 Children who received SMC (%)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "subscribers": [],
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "basemap": "osmLight",
+            "id": "xJ2O8GCuE2K",
+            "mapViews": [
+                {
+                    "attributeDimensions": [],
+                    "attributeValues": [],
+                    "categoryDimensions": [],
+                    "categoryOptionGroupSetDimensions": [],
+                    "classes": 5,
+                    "colorScale": "#f1eef6,#d7b5d8,#df65b0,#dd1c77,#980043",
+                    "columnDimensions": [
+                        "dx"
+                    ],
+                    "columns": [],
+                    "completedOnly": false,
+                    "dataDimensionItems": [
+                        {
+                            "dataDimensionItemType": "INDICATOR",
+                            "indicator": {
+                                "id": "Tgsn6faDc3e"
+                            }
+                        }
+                    ],
+                    "dataElementDimensions": [],
+                    "dataElementGroupSetDimensions": [],
+                    "digitGroupSeparator": "SPACE",
+                    "eventClustering": false,
+                    "eventPointRadius": 0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "filterDimensions": [
+                        "pe"
+                    ],
+                    "filters": [],
+                    "hideSubtitle": false,
+                    "hideTitle": false,
+                    "id": "rZDMTPq1W7z",
+                    "interpretations": [],
+                    "itemOrganisationUnitGroups": [],
+                    "layer": "thematic",
+                    "method": 2,
+                    "name": "MAL-SMC - Children with full three daily doses of SPAQ (%)",
+                    "opacity": 0.9,
+                    "organisationUnitGroupSetDimensions": [],
+                    "organisationUnitLevels": [],
+                    "organisationUnits": [],
+                    "parentGraphMap": {},
+                    "parentLevel": 0,
+                    "periods": [],
+                    "programIndicatorDimensions": [],
+                    "relativePeriods": {
+                        "biMonthsThisYear": false,
+                        "last10FinancialYears": false,
+                        "last10Years": false,
+                        "last12Months": true,
+                        "last12Weeks": false,
+                        "last14Days": false,
+                        "last180Days": false,
+                        "last2SixMonths": false,
+                        "last30Days": false,
+                        "last3Days": false,
+                        "last3Months": false,
+                        "last4BiWeeks": false,
+                        "last4Quarters": false,
+                        "last4Weeks": false,
+                        "last52Weeks": false,
+                        "last5FinancialYears": false,
+                        "last5Years": false,
+                        "last60Days": false,
+                        "last6BiMonths": false,
+                        "last6Months": false,
+                        "last7Days": false,
+                        "last90Days": false,
+                        "lastBiWeek": false,
+                        "lastBimonth": false,
+                        "lastFinancialYear": false,
+                        "lastMonth": false,
+                        "lastQuarter": false,
+                        "lastSixMonth": false,
+                        "lastWeek": false,
+                        "lastYear": false,
+                        "monthsLastYear": false,
+                        "monthsThisYear": false,
+                        "quartersLastYear": false,
+                        "quartersThisYear": false,
+                        "thisBiWeek": false,
+                        "thisBimonth": false,
+                        "thisDay": false,
+                        "thisFinancialYear": false,
+                        "thisMonth": false,
+                        "thisQuarter": false,
+                        "thisSixMonth": false,
+                        "thisWeek": false,
+                        "thisYear": false,
+                        "weeksThisYear": false,
+                        "yesterday": false
+                    },
+                    "renderingStrategy": "SINGLE",
+                    "rows": [],
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipRounding": false,
+                    "sortOrder": 0,
+                    "subscribed": false,
+                    "subscribers": [],
+                    "topLimit": 0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "userOrganisationUnit": false,
+                    "userOrganisationUnitChildren": false,
+                    "userOrganisationUnitGrandChildren": true
+                }
+            ],
+            "name": "MAL_SMC_010 SPAQ three daily doses (%)",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "subscribers": [],
+            "translations": []
+        }
+    ],
+    "organisationUnitGroupSets": [],
+    "organisationUnitGroups": [],
+    "package": {
+        "DHIS2Build": "dfd7f48",
+        "DHIS2Version": "2.40.5",
+        "code": "MAL_SMC",
+        "description": "Seasonal Malaria Chemoprevention (dashbaord)",
+        "healthAreaCode": "MAL",
+        "healthAreaName": "Malaria",
+        "lastUpdated": "20241128T155348",
+        "locale": "en",
+        "name": "MAL_SMC_DSH_DHIS2.40.5-en",
+        "type": "DSH",
+        "version": ""
+    },
+    "userGroups": [
+        {
+            "attributeValues": [],
+            "code": "MAL_SMC_ACCESS",
+            "id": "PKuKcx5xPi9",
+            "managedGroups": [],
+            "name": "Malaria SMC - Access",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "MAL_SMC_ADMIN",
+            "id": "ykhIT99JnS9",
+            "managedGroups": [],
+            "name": "Malaria SMC - Admin",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "code": "MAL_SMC_DATA_CAPTURE",
+            "id": "igkcAdSA4NO",
+            "managedGroups": [],
+            "name": "Malaria SMC - Data Capture",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [],
+            "users": []
+        }
+    ],
+    "userRoles": [
+        {
+            "authorities": [],
+            "id": "nCNR71ZbTHK",
+            "name": "Package User Role",
+            "restrictions": [],
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Rôle d'utilisateur du package"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Rol de Usuario para Administrador de Paquetes"
+                }
+            ]
+        }
+    ],
+    "users": [
+        {
+            "attributeValues": [],
+            "catDimensionConstraints": [],
+            "cogsDimensionConstraints": [],
+            "dataViewOrganisationUnits": [],
+            "disabled": false,
+            "externalAuth": false,
+            "firstName": "package",
+            "id": "vUeLeQMSwhN",
+            "invitation": false,
+            "lastLogin": "2020-04-23T09:17:46.912",
+            "organisationUnits": [],
+            "passwordLastUpdated": "2022-08-17T12:56:38.395",
+            "selfRegistered": false,
+            "surname": "admin",
+            "teiSearchOrganisationUnits": [],
+            "userRoles": [
+                {
+                    "id": "nCNR71ZbTHK"
+                }
+            ],
+            "username": "package_admin"
+        }
+    ],
+    "visualizations": [
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "DEFAULT",
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "TnqCgOccFIC"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou",
+                "pe"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "nhtheNkJF59",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "MAL_SMC_001 Population at risk",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": true,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "title": "Population at risk of malaria",
+            "topLimit": 0,
+            "translations": [],
+            "type": "SINGLE_VALUE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "DEFAULT",
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "ZDge3QYblCV"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou",
+                "pe"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "RlwTmj8O4y0",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "MAL_SMC_002 Reached",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": true,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "title": "Children reached",
+            "topLimit": 0,
+            "translations": [],
+            "type": "SINGLE_VALUE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "DEFAULT",
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "qr2NXl5B5Tt"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou",
+                "pe"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "R9D2SkXWq6r",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "MAL_SMC_003  Referred",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": true,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "title": "Children referred",
+            "topLimit": 0,
+            "translations": [],
+            "type": "SINGLE_VALUE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "DEFAULT",
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "Njfp6pRHHkx"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou",
+                "pe"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "n48NG4U4lpR",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "MAL_SMC_004 Refusals",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": true,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "title": "SMC refusals",
+            "topLimit": 0,
+            "translations": [],
+            "type": "SINGLE_VALUE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "DEFAULT",
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "GuM3dKDOFLV"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou",
+                "pe"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "Re7rQsLNYa5",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "MAL_SMC_005 Side effects",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": true,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "title": "Children excluded due to side effects",
+            "topLimit": 0,
+            "translations": [],
+            "type": "SINGLE_VALUE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "DEFAULT",
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "jdRAAEfOLo9"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou",
+                "pe"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "eGAAf2w3zs6",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "MAL_SMC_006 Redosed",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": true,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "title": "Children redosed",
+            "topLimit": 0,
+            "translations": [],
+            "type": "SINGLE_VALUE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "DEFAULT",
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "ak3LR1HIG1r"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "X70TfODOH12"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "hsgt2Rv5UiN"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "khsaCIw31tb"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "hmOiu1PM18o"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "pe"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "mvRQprAAcjn",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "MAL_SMC_007 Received SMC",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": false,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": true,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "ou"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "title": "Percentage of children that received SMC during the cycles",
+            "topLimit": 0,
+            "translations": [],
+            "type": "COLUMN",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "DARK",
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "Tgsn6faDc3e"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "oPgxReDvtX5",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "MAL_SMC_009 SPAQ full dose",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": true,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": true,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [
+                {
+                    "axis": 0,
+                    "dimensionItem": "ak3LR1HIG1r"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "X70TfODOH12"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "hsgt2Rv5UiN"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "khsaCIw31tb"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "hmOiu1PM18o"
+                }
+            ],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "title": "Percentage of children receiving full three daily dses of SPAQ",
+            "topLimit": 0,
+            "translations": [],
+            "type": "LINE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "DEFAULT",
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "ZDge3QYblCV"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "lpvKxAPBN60",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "MAL_SMC_011 Reached",
+            "noSpaceBetweenColumns": true,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": true,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": true,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [
+                {
+                    "axis": 0,
+                    "dimensionItem": "ak3LR1HIG1r"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "X70TfODOH12"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "hsgt2Rv5UiN"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "khsaCIw31tb"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "hmOiu1PM18o"
+                }
+            ],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "title": "Children reached",
+            "topLimit": 0,
+            "translations": [],
+            "type": "COLUMN",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "DEFAULT",
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "ddse1cN80Ec"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "OOtoQZR7Vmc",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "MAL_SMC_012 side effects (%)",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": true,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": true,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [
+                {
+                    "axis": 0,
+                    "dimensionItem": "ak3LR1HIG1r"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "X70TfODOH12"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "hsgt2Rv5UiN"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "khsaCIw31tb"
+                },
+                {
+                    "axis": 0,
+                    "dimensionItem": "hmOiu1PM18o"
+                }
+            ],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "title": "Perchetange of children with adverse reaction to SMC",
+            "topLimit": 0,
+            "translations": [],
+            "type": "LINE",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        },
+        {
+            "aggregationType": "DEFAULT",
+            "attributeValues": [],
+            "axes": [],
+            "categoryDimensions": [],
+            "categoryOptionGroupSetDimensions": [],
+            "colSubTotals": false,
+            "colTotals": false,
+            "colorSet": "DEFAULT",
+            "columnDimensions": [
+                "dx"
+            ],
+            "completedOnly": false,
+            "cumulativeValues": false,
+            "dataDimensionItems": [
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "NZtEII7Zxwg"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "KT8TOc8gVAD"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "TGbs1i8qZoP"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "s5k2PfdOQQ4"
+                    }
+                },
+                {
+                    "dataDimensionItemType": "INDICATOR",
+                    "indicator": {
+                        "id": "T4xhL6B0jjO"
+                    }
+                }
+            ],
+            "dataElementGroupSetDimensions": [],
+            "digitGroupSeparator": "SPACE",
+            "displayDensity": "NORMAL",
+            "filterDimensions": [
+                "ou"
+            ],
+            "fixColumnHeaders": false,
+            "fixRowHeaders": false,
+            "fontSize": "NORMAL",
+            "fontStyle": {},
+            "hideEmptyColumns": false,
+            "hideEmptyRowItems": "NONE",
+            "hideEmptyRows": false,
+            "hideLegend": false,
+            "hideSubtitle": false,
+            "hideTitle": false,
+            "icons": [],
+            "id": "KkaiV4k8w1Z",
+            "itemOrganisationUnitGroups": [],
+            "legend": {
+                "showKey": false
+            },
+            "name": "MAL_SMC_016 Target",
+            "noSpaceBetweenColumns": false,
+            "numberType": "VALUE",
+            "optionalAxes": [],
+            "organisationUnitGroupSetDimensions": [],
+            "organisationUnitLevels": [],
+            "organisationUnits": [],
+            "percentStackedValues": false,
+            "periods": [],
+            "regression": false,
+            "regressionType": "NONE",
+            "relativePeriods": {
+                "biMonthsThisYear": false,
+                "last10FinancialYears": false,
+                "last10Years": false,
+                "last12Months": false,
+                "last12Weeks": false,
+                "last14Days": false,
+                "last180Days": false,
+                "last2SixMonths": false,
+                "last30Days": false,
+                "last3Days": false,
+                "last3Months": false,
+                "last4BiWeeks": false,
+                "last4Quarters": false,
+                "last4Weeks": false,
+                "last52Weeks": false,
+                "last5FinancialYears": false,
+                "last5Years": true,
+                "last60Days": false,
+                "last6BiMonths": false,
+                "last6Months": false,
+                "last7Days": false,
+                "last90Days": false,
+                "lastBiWeek": false,
+                "lastBimonth": false,
+                "lastFinancialYear": false,
+                "lastMonth": false,
+                "lastQuarter": false,
+                "lastSixMonth": false,
+                "lastWeek": false,
+                "lastYear": false,
+                "monthsLastYear": false,
+                "monthsThisYear": false,
+                "quartersLastYear": false,
+                "quartersThisYear": false,
+                "thisBiWeek": false,
+                "thisBimonth": false,
+                "thisDay": false,
+                "thisFinancialYear": false,
+                "thisMonth": false,
+                "thisQuarter": false,
+                "thisSixMonth": false,
+                "thisWeek": false,
+                "thisYear": true,
+                "weeksThisYear": false,
+                "yesterday": false
+            },
+            "reportingParams": {
+                "grandParentOrganisationUnit": false,
+                "organisationUnit": false,
+                "parentOrganisationUnit": false,
+                "reportingPeriod": false
+            },
+            "rowDimensions": [
+                "pe"
+            ],
+            "rowSubTotals": false,
+            "rowTotals": false,
+            "series": [],
+            "seriesKey": {
+                "hidden": false
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "PKuKcx5xPi9": {
+                        "access": "r-------",
+                        "id": "PKuKcx5xPi9"
+                    },
+                    "igkcAdSA4NO": {
+                        "access": "r-------",
+                        "id": "igkcAdSA4NO"
+                    },
+                    "ykhIT99JnS9": {
+                        "access": "rw------",
+                        "id": "ykhIT99JnS9"
+                    }
+                },
+                "users": {}
+            },
+            "showData": true,
+            "showDimensionLabels": false,
+            "showHierarchy": false,
+            "skipRounding": false,
+            "sortOrder": 0,
+            "subscribers": [],
+            "title": "Chilren targeted by each SMC cycle through time",
+            "topLimit": 0,
+            "translations": [],
+            "type": "COLUMN",
+            "userOrganisationUnit": true,
+            "userOrganisationUnitChildren": false,
+            "userOrganisationUnitGrandChildren": false,
+            "yearlySeries": []
+        }
+    ]
+}

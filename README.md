@@ -1,2 +1,2 @@
 # MAL_SMC
-xxx
+Seasonal Malaria Chemoprevention

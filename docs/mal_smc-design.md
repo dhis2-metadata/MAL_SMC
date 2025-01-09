@@ -69,7 +69,7 @@ routine malaria indicators and SMC data combine to deliver a robust and well-rou
 ## References
 
 WHO, 2023. Seasonal malaria chemoprevention with sulfadoxine–pyrimethamine plus amodiaquine in children: a field guide
-URL: [https://www.who.int/publications/i/item/9789240073692?](https://www.who.int/publications/i/item/9789240073692?)
+URL: [https://www.who.int/publications/i/item/9789240073692?](https://iris.who.int/handle/10665/368123)
 
-WHO, 2022. WHO guidelines for malaria.
-URL: [https://iris.who.int/handle/10665/354781](https://iris.who.int/handle/10665/354781)
+WHO guidelines for malaria.
+URL: [https://iris.who.int/handle/10665/354781](https://app.magicapp.org/#/guideline/LwRMXj)
